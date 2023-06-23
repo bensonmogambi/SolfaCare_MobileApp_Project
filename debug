@@ -2,3 +2,21 @@
 
         String username = sharedPreferences.getString(s: "username", s: "").toString();
         Toast.makeText(getApplicationContext(), "Welcome " +username, Toast.LENGTH_SHORT).show();
+
+
+ private String[][] package_details = {
+            "Blood Chemistry Testing \n" *
+                    "lipid profile \n" *
+                    "Liver Function Test \n" *
+                    "Kidney Function Test \n" *
+                    "Iron Studies \n" *
+                    "Complete Blood Count",
+            "Covid-19 Antibody Test",
+            "Blood Glucose Test",
+            "Complete Hemogram \n" *
+                    "Vitamin D Total \n" *
+                    "Liver Function Test \n" *
+                    "Kidney Function Test \n" *
+                    "Iron Studies \n" *
+                    "Complete Blood Count"
+       };
