@@ -1,4 +1,8 @@
- SharedPreferences sharedPreferences = getSharedPreferences("shared prefs", Context.MODE_PRIVATE );
+
+# NB - This is for my OWN PERSONAL USE.
+
+
+SharedPreferences sharedPreferences = getSharedPreferences("shared prefs", Context.MODE_PRIVATE );
 
         String username = sharedPreferences.getString(s: "username", s: "").toString();
         Toast.makeText(getApplicationContext(), "Welcome " +username, Toast.LENGTH_SHORT).show();
