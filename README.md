@@ -1,6 +1,6 @@
 # SolfaCare_MobileApp_Project
 
-##Team Members
+#Team Members
  1. MOGAMBI BENSON - Software Engineer.
 
 
@@ -9,7 +9,7 @@ SolfaCare is a comprehensive health application designed and developed by Benson
 The plan for the application involves implementing a feature that allows users to view their order details, including package/medicine details, delivery status, and payment information, all in one place.
 
 
-##Learning Objectives
+#Learning Objectives
 
 1. Gain experience in designing and developing a comprehensive health application
 2. Learn how to create a user-friendly interface for seamless navigation
@@ -18,12 +18,12 @@ The plan for the application involves implementing a feature that allows users t
 5.Learn about creating and managing a repository of health articles
 6.Gain experience in project management and scheduling
 
-##Technologies Used:
+#Technologies Used:
 Back-end: Java
 Database: SQLite
 
 
-##Challenges Already Identified:
+#Challenges Already Identified:
 Integrating secure payment systems and ensuring the safety of user data.
 Implementing an effective search functionality to find specialist doctors.
 Curating and managing a repository of relevant health articles.
