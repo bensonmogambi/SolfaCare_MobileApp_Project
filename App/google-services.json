@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344999654218",
+    "project_id": "solfacare",
+    "storage_bucket": "solfacare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344999654218:android:a7b57f69fdddc80d2647b3",
+        "android_client_info": {
+          "package_name": "com.example.solfacare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344999654218-fd45eco5docf01qosump3l8cm0jdviqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNF-hAkYmZWfGiO6BOOhksKrq0azUwhMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344999654218-fd45eco5docf01qosump3l8cm0jdviqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
